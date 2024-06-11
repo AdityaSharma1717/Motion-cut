@@ -1,7 +1,7 @@
 questions = ("The ASCII number of 'A'?: ",
              "Which OnePlus phone model has Aqua-Touch feature?: ",
              "What is the most abundant gas in Earth's atmosphere?: ",
-             "How many bones are in the male human body in the morning?: ",
+             "How many bones are in the human body ?: ",
              "Which planet in the solar system is the hottest?: ")
 
 options = (("A. 89", "B. 47", "C. 65", "D. 49"),
@@ -10,7 +10,7 @@ options = (("A. 89", "B. 47", "C. 65", "D. 49"),
            ("A. 206", "B. 207", "C. 208", "D. 209"),
            ("A. Mercury", "B. Venus", "C. Earth", "D. Mars"))
 
-answers = ("C", "D", "A", "B", "B")
+answers = ("C", "D", "A", "A", "B")
 guesses = []
 score = 0
 question_num = 0
