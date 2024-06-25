@@ -83,7 +83,7 @@ def print_summary(summary, summary_type):
     """
     print(f"{summary_type} Summary")
     for key, value in summary.items():
-        print(f"{key}: ${value:.2f}")
+        print(f"{key}: Rs.{value:.2f}")
 
 def main():
     """
