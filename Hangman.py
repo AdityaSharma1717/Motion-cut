@@ -6,7 +6,6 @@ categories = {
     "Countries": ["brazil", "canada", "germany"],
     "Movies": ["inception", "gladiator", "avatar"]
 }
-
 # Hangman stages
 hangman_stages = [
     """
